@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE WebRiddles
+[
+
+
+
+<!ELEMENT WebRiddles (home, Riddles, About, Contact)>
+<!ELEMENT home (title, heading, subheading)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT subheading (#PCDATA)>
+<!ELEMENT riddles (riddleList)>
+<!ELEMENT riddle (title, riddle, answer)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT riddle (#PCDATA)>
+<!ELEMENT answer (#PCDATA)>
+<!ELEMENT about (heading, subheading)>
+<!ELEMENT contact (heading, subheading)>
+
+]>
+<WebRiddles>
+    <home>
+        <title>WebRiddles</title>
+        <heading>Explore and Discover different Riddles</heading>
+        <subheading>All is a riddle, and</subheading>
+        <subheading>The key to a riddle...</subheading>
+        <subheading>Is another riddle.</subheading>
+    </home>
+    <riddles>
+            <title>riddle 1</title>
+                <riddle>
+                    <line>What does man love more than life,</line>
+                    <line>hate more than death or mortal strife;  </line>
+                    <line>that which contented men desire; </line>
+                    <line>the poor have, the rich require;</line>
+                    <line>the miser spends, the spendthrift saves,</line>
+                    <line>Tand all men carry to their graves?</line>
+                </riddle>
+            <answer>Nothing</answer>
+    </riddles>
+    <riddles>
+            <title>riddle 2</title>
+                <riddle>
+                    <line>I have lakes with no water,</line>
+                    <line>mountains with no stone </line>
+                    <line>that which contented men desire; </line>
+                    <line>and cities with no building.</line>
+                    <line>Whatam I?</line>
+                </riddle>
+            <answer>A map</answer>
+    </riddles>
+    <riddles>
+            <title>riddle 3</title>
+                <riddle>
+                    <line>With pointed fangs I sit and wait;</line>
+                    <line>with piercing force I crunch out fate;   </line>
+                    <line>grabbing victims, proclaiming might; </line>
+                    <line>physically joining with a single bite.</line>
+                    <line>What am I?</line>
+                </riddle>
+            <answer>A stapler</answer>
+    </riddles>
+    <riddles>
+            <title>riddle 4</title>
+                <riddle>
+                    <line>The person who makes it has no need of it;</line>
+                    <line>the person who buys it has no use for it. </line>
+                    <line>The person who uses it can neither see nor feel it. </line>
+                    <line>What is it?</line>
+                </riddle>
+            <answer>A coffin</answer>
+    </riddles>
+    <riddles>
+            <title>riddle 5</title>
+                <riddle>
+                    <line>What can run but never walks,</line>
+                    <line>has a mouth but never talks,  </line>
+                    <line>has a head but never weeps, </line>
+                    <line>has a bed but never sleeps?</line>
+                </riddle>
+            <answer>A river</answer>
+    </riddles>
+    <riddles>
+            <title>riddle 6</title>
+                <riddle>
+                    <line>If you drop me I'm sure to crack,</line>
+                    <line>but give me smile and I'll always smile you back </line>
+                    <line>What am I? </line>
+                </riddle>
+            <answer>A mirror</answer>
+    </riddles>
+    <riddles>
+            <title>riddle 7</title>
+                <riddle>
+                    <line>What 4-letter word can be written forward, backward or upside down</line>
+                    <line>and still be read from left to right?  </line>
+                </riddle>
+            <answer>NOON</answer>
+    </riddles>
+    <riddles>
+            <title>riddle 8</title>
+                <riddle>
+                    <line>Forward I am heavy,</line>
+                    <line>but backward I am not.  </line>
+                    <line>What am I? </line>
+                </riddle>
+            <answer>The word "not"</answer>
+    </riddles>
+    <riddles>
+            <title>riddle 9</title>
+                <riddle>
+                    <line>I am a word of letters three;</line>
+                    <line>add two and fewer there will be. </line>
+                    <line>What word am I? </line>
+                </riddle>
+            <answer>Few</answer>
+    </riddles>
+    <riddles>
+            <title>riddle 10</title>
+                <riddle>
+                    <line>The more you take,</line>
+                    <line>the more you leave behind.  </line>
+                    <line>What are they? </line>
+                </riddle>
+            <answer>Footsteps</answer>
+    </riddles>
+    <riddles>
+            <title>riddle 11</title>
+                <riddle>
+                    <line>If you've got me,</line>
+                    <line>you want to share me, </line>
+                    <line>you haven't kept me.  </line>
+                    <line>What word am I? </line>
+                </riddle>
+            <answer>A secret</answer>
+    </riddles>
+    <riddles>
+            <title>riddle 12</title>
+                <riddle>
+                    <line>I follow you all the time and copy you every move,</line>
+                    <line>tbut you can't touch me or catch me. </line>
+                    <line>What am Iss? </line>
+                </riddle>
+            <answer>Your shadow</answer>
+    </riddles>
+    <about>
+        <heading>About</heading>
+        <subheading>This is website is made for everyone who love riddles. Also, it is where you can look for some riddles that you want to read or to know.</subheading>
+    </about>
+    <contact>
+        <heading>contact</heading>
+        <subheading>Email: riddles@gmail.com</subheading>
+        <subheading>Number: 09093161784</subheading>
+        <subheading>Facebook: https://web.facebook.com/messages/t/100016784589519/</subheading>
+    </contact>
+   
+</WebRiddles>
