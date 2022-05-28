@@ -8,7 +8,7 @@
     <meta name="author" content="Rose Ann Requintel">
     <meta name="application-name" content="Lyrixmatch">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>About</title>
+    <title>Contact</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
@@ -41,8 +41,10 @@
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
 
         <main class="px-3">
-            <h1>About</h1><br><br>
-            <p class="about">This is website is made for everyone who love riddles. Also, it is where you can look for some riddles that you want to read or to know.</p>
+            <h1>Contact</h1><br><br>
+            <p class="contact">Email: riddles@gmail.com</p>
+            <p class="contact">Number: 09093161784</p>
+            <p class="contact">Facebook: https://web.facebook.com/messages/t/100016784589519/</p>
             
         </main>
 
